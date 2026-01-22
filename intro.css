@@ -69,7 +69,7 @@ img.happy {
     position: fixed;
     left: 50%;
     top: 30%;
-    width: 400px;
+    width: 200px;
     height: auto;
     transform: translate(-50%, -50%);
 }
@@ -80,7 +80,7 @@ img.birthday {
     position: fixed;
     left: 50%;
     top: 70%;
-    width: 600px;
+    width: 300px;
     height: auto;
     transform: translate(-50%, -50%);
 }
