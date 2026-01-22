@@ -1,4 +1,5 @@
 body {
+    margin: 0;
     background-color: #FEE0E0;
 }
 
@@ -28,19 +29,6 @@ img.polaroid {
     opacity: 1;
 } 
 
-polaroid.first {
-    display: block;
-    left:75%;
-    top: 10%;
-    width: 300px;
-    height: auto;
-    transform: rotate(-35deg);
-}
-
-polaroid.d {
-    position: relative;
-    transform: rotate(10deg);
-}
 img.polaroid.a{
     left: 75%;
     top: 10%;
@@ -59,7 +47,14 @@ img.polaroid.c{
     transform: rotate(25deg);
 }
 
-
+img.top {
+    display: block;
+    position: fixed;
+    left: 50%;
+    width: 100%;
+    height: 100px;
+    transform: translateX(-50%);
+}
 
 
 
