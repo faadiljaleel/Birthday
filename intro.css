@@ -52,7 +52,7 @@ img.happy {
     display: block;
     position: fixed;
     left: 50%;
-    top: 30%;
+    top: 33%;
     width: 190px;
     height: auto;
     transform: translate(-50%, -50%);
@@ -73,7 +73,7 @@ img.dup {
     display: block;
     position: fixed;
     left: 0;
-    top: 50%;
+    top: 48%;
     width: 50px;
     height: auto;
 }
