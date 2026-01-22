@@ -64,4 +64,23 @@ img.bottom {
     height: 200px;
 }
 
+img.happy {
+    display: block;
+    position: fixed;
+    left: 50%;
+    top: 30%;
+    width: 400px;
+    height: auto;
+    transform: translate(-50%, -50%);
+}
 
+
+img.birthday {
+    display: block;
+    position: fixed;
+    left: 50%;
+    top: 70%;
+    width: 600px;
+    height: auto;
+    transform: translate(-50%, -50%);
+}
