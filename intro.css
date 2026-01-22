@@ -48,6 +48,16 @@ img.polaroid.c{
     transform: rotate(25deg);
 }
 
+img.polgroup {
+    display: block;
+    position: fixed;
+    width: 500px;
+    height: auto;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
 img.top {
     display: block;
     position: fixed;
