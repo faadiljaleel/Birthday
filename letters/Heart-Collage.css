@@ -1,4 +1,6 @@
 body {
+    display: flex;
+    flex-direction: column;
     min-height: 100vh;
     margin: 0;
     display: flex;
@@ -12,3 +14,11 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+h1 {
+    display: block;
+    font-family: 'Great Vibes', cursive !important;
+    font-size: 52px;
+    color: #EEEEEE;
+}
+
