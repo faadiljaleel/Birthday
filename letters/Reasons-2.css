@@ -72,7 +72,7 @@ p {
     height: 100%;
 }
 
-button {
+.butt {
     background-color: #F81B3F;
     font-family: 'Source serif 4';
     font-weight: 400;
@@ -88,6 +88,8 @@ button {
     right: 0;
     width: 150px;
     height: fit-content;
+    text-align: center;
+    text-decoration: none;
 }
 
 
