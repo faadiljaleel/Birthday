@@ -8,7 +8,7 @@ html, body {
         background-image: url('res/letter-1Portrait.png');
         width: 100vw;
         height: 100vh;
-        background-size: contain;
+        background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -19,7 +19,7 @@ html, body {
         background-image: url('res/letter-1.png');
         width: 100vw;
         height: 100vh;
-        background-size: contain;
+        background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -29,7 +29,7 @@ html, body {
     font-family: 'Source serif 4';
     font-weight: 400;
     font-style: italic;
-    font-size: 102px;
+    font-size: 62px;
     color: #FFFFFF;
     box-shadow: none;
     border: none;
@@ -38,7 +38,7 @@ html, body {
     position: fixed;
     bottom: 0;
     right: 0;
-    width: 150px;
+    width: 70px;
     height: fit-content;
     text-align: center;
     text-decoration: none;
